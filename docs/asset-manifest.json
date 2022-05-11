@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/impactchallenge/static/css/main.34f20780.css",
+    "main.js": "/impactchallenge/static/js/main.ffa4b40c.js",
+    "index.html": "/impactchallenge/index.html",
+    "main.34f20780.css.map": "/impactchallenge/static/css/main.34f20780.css.map",
+    "main.ffa4b40c.js.map": "/impactchallenge/static/js/main.ffa4b40c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34f20780.css",
+    "static/js/main.ffa4b40c.js"
+  ]
+}
